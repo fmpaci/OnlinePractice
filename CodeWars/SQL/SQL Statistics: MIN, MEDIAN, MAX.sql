@@ -12,7 +12,7 @@
 
 */
 SELECT
-    MIN(score)  as min
-  , percentile_cont(0.5) WITHIN GROUP (ORDER BY score) as median
-  , MAX (score) as  max
-FROM result
+    MIN(score) min
+  , percentile_cont(0.5) wITHIN GROUP (ORDER BY score) as median
+  , MAX(score) max
+from result
