@@ -1,5 +1,5 @@
 
-# Write your MySQL query statement below
+--# Write your MySQL query statement below
 with salary_rank as (
     select
         d.name as department
