@@ -13,6 +13,9 @@ Repo to save challenges of online services such as HackerRank, CodeWars, LeetCod
   </a>
 </p>
 
+* [SQL](HackerRank%2FREADME.MD)
+* [README.md](HackerRank%2FPython%2FREADME.md)
+* [Problem Solving](HackerRank%2FProblem%20Solving%2FREADME.md)
 
 # [LeetCode](LeetCode)
 
@@ -20,8 +23,3 @@ Repo to save challenges of online services such as HackerRank, CodeWars, LeetCod
 
 
 
-<p align="left">
-  <a href="https://www.hackerrank.com/fpaci">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-7-green?color=green&logo=hackerrank">
-  </a>
-</p>

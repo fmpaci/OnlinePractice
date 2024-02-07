@@ -2,7 +2,13 @@
 
 ## Python
 
-### 
+### Easy
 
-### 
-* [185._Department_Top_Three_Salaries.sql](185._Department_Top_Three_Salaries.sql) --> [Leetcode](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50)
+### Medium
+
+* [11. Container With Most Water](11.%20Container%20With%20Most%20Water.py)[11. Container With Most Water](692._Top_K_Frequent_Words.py) --> [Leetcode](https://leetcode.com/problems/container-with-most-water/description/)
+* [692. Top K Frequent Words](692._Top_K_Frequent_Words.py) --> [Leetcode](https://leetcode.com/problems/top-k-frequent-words/description/)
+
+
+### Hard
+* [2386. Find the K-Sum of an Array](2386.%20Find%20the%20K-Sum%20of%20an%20Array) --> [Leetcode](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/)
