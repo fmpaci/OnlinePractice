@@ -9,6 +9,8 @@
 * [sWAP cASE.py](Easy%2FsWAP_cASE.py) --> [HackerRank](url)
 * [whats-your-name.py](Easy%2Fwhats-your-name.py) --> [HackerRank](https://www.hackerrank.com/challenges/whats-your-name/problem
 )
+* [Lists Operations](Easy%2Flists.py) --> [HackerRank](https://www.hackerrank.com/challenges/python-lists/problem)
+
 
 
 ### <a name="Medium">Medium</a>
