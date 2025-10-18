@@ -11,6 +11,8 @@
 )
 * [Lists Operations](Easy%2Flists.py) --> [HackerRank](https://www.hackerrank.com/challenges/python-lists/problem)
 
+* [python-tuples.py](Easy%2Fpython-tuples.py) --> [HackerRank](https://www.hackerrank.com/challenges/python-tuples/problem)
+
 
 
 ### <a name="Medium">Medium</a>

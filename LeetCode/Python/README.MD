@@ -3,6 +3,9 @@
 ## Python
 
 ### Easy
+* [27. Remove Element](27.%removeElement.py) --> [Leetcode](https://leetcode.com/problems/remove-element)
+* [66. Plus One](66.%20Plus%20One.py) --> [Leetcode](https://leetcode.com/problems/plus-one)
+
 
 ### Medium
 
